@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/ROHITHSAKTHIVEL/Netxd_Customer_Config.git/constants"
+	"github.com/ROHITHSAKTHIVEL/Netxd_Customer_Config/constants"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 	"go.mongodb.org/mongo-driver/mongo/readpref"

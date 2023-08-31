@@ -1,4 +1,4 @@
-module github.com/ROHITHSAKTHIVEL/Netxd_Customer_Config.git
+module github.com/ROHITHSAKTHIVEL/Netxd_Customer_Config
 
 go 1.20
 
