@@ -1,12 +1,12 @@
 package config
 
 import (
-	"Netxd_Project/Netxd_Customer_GRPC/constants"
 	"context"
 	"fmt"
 	"log"
 	"time"
 
+	"github.com/ROHITHSAKTHIVEL/Netxd_Customer_Config.git/constants"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 	"go.mongodb.org/mongo-driver/mongo/readpref"
